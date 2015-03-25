@@ -15,7 +15,8 @@
 /log/*.log
 /tmp
 
-
+# Ignore annoying mac file
+.DS_Store
 
 # Elastic Beanstalk Files
 .elasticbeanstalk/*
